@@ -1,0 +1,8 @@
+{
+  "name": "gerador-esportes-api",
+  "version": "1.0.0",
+  "description": "API para converter HTML de jogos em JSON",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
